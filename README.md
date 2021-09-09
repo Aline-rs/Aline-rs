@@ -9,7 +9,7 @@
   <img align="center" alt="Aline-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Aline-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Aline-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="right" alt="Aline-Naruto" width="180" src="https://c.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif">
+ 
 </div>
   
   ##
