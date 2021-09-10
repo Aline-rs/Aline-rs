@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Aline Rosa!
+## Oii! Eu sou a Aline Rosa!
  <div>
   <a href="https://github.com/Aline-rs">
   <img height="180em" width= "405" src="https://github-readme-stats.vercel.app/api?username=Aline-rs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
