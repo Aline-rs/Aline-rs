@@ -1,21 +1,46 @@
-## Oii! Eu sou a Aline Rosa!
- <div>
-  <a href="https://github.com/Aline-rs">
-  <img height="180em" width= "405" src="https://github-readme-stats.vercel.app/api?username=Aline-rs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "405" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-rs&layout=compact&langs_count=100&theme=dracula">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aline-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img height="80em" width= "100" align="center" alt="Aline-Cucumber" src="https://user-images.githubusercontent.com/78911442/183142204-61cbb73c-b696-4344-a5b8-a5693fbc191e.png">
- 
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:alinerosa_s@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alinerosas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+# 👩‍💻 Olá! Eu sou a Aline Rosa  
+**Quality Assurance | Automação de Testes | Entusiasta da Excelência**
+
+🔎 "Testar não é apenas encontrar erros, é garantir confiança."
+
+---
+
+## 🚀 Sobre mim
+
+- 💼 Analista de QA com experiência em testes manuais e automatizados  
+- 🧪 Especialista em Cypress, Gherkin, Postman e SQL  
+- 🧠 Aprendendo C# e construção de interfaces gráficas  
+- 🤝 Colaborando com equipes ágeis (Scrum & Kanban)  
+- 🌱 Curiosa por natureza — cada bug é uma oportunidade de entender mais
+
+---
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Gherkin](https://img.shields.io/badge/-Gherkin-5E5E5E?style=for-the-badge)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Minhas estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aline-rs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-rs&layout=compact&theme=radical&card_width=320" />
+</p>
+
+## 📈 Atividade recente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-rs&theme=rogue)
+
+
+## ✨ Curiosidades
+
+- 🧩 Teste preferido: Exploratório com automação complementar  
+- 📚 Livro favorito sobre QA: *Explore It!* – Elisabeth Hendrickson  
+- 🎯 Meta atual: Evoluir meus projetos em C# com UI
+
+---
+
+### 📬 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aline-rs/)
+
+
