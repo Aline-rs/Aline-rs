@@ -1,13 +1,11 @@
 # 👩‍💻 Olá! Eu sou a Aline Rosa  
-**Quality Assurance | Automação de Testes | Entusiasta da Excelência**
-
-🔎 "Testar não é apenas encontrar erros, é garantir confiança."
+**Desenvolvedor de Software | Automação de Testes | C#**
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💼 Analista de QA com experiência em testes manuais e automatizados  
+- 💼 Ex-analista de QA com experiência em testes manuais e automatizados  
 - 🧪 Especialista em Cypress, Gherkin, Postman e SQL  
 - 🧠 Aprendendo C# e construção de interfaces gráficas  
 - 🤝 Colaborando com equipes ágeis (Scrum & Kanban)  
@@ -34,9 +32,7 @@
 
 ## ✨ Curiosidades
 
-- 🧩 Teste preferido: Exploratório com automação complementar  
-- 📚 Livro favorito sobre QA: *Explore It!* – Elisabeth Hendrickson  
-- 🎯 Meta atual: Evoluir meus projetos em C# com UI
+- 🎯 Meta atual: Evoluir meus projetos em C#
 
 ---
 
